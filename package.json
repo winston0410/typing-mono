@@ -1,0 +1,19 @@
+{
+  "private": true,
+  "name": "typing-mono",
+  "workspaces": {
+    "packages": [
+      "packages/*"
+    ],
+    "nohoist": []
+  },
+  "bolt": {
+    "workspaces": [
+      "packages/*"
+    ]
+  },
+  "scripts": {},
+  "devDependencies": {
+
+  }
+}
